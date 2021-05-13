@@ -19,3 +19,12 @@ a {
 .container {
   background: #3124AE;
 }
+
+.text-highlight {
+  display: inline-block;
+}
+
+.text-highlight:hover {
+  color: #89eff4;
+  text-decoration: underline;
+}
