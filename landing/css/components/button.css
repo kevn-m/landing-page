@@ -1,0 +1,16 @@
+.button {
+  color: #89eff4;
+  border-style: solid;
+  border-radius: 4px;
+  padding: 10px 40px;
+  letter-spacing: 0px;
+  font-size: 16px;
+  font-weight: bold;
+  transition-delay: 0.1s;
+}
+
+.button:hover {
+  color: #3124AE;
+  background-color: #89eff4;
+  border-color: #89eff4;
+}

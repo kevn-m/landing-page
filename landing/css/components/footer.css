@@ -1,0 +1,14 @@
+.card-menu {
+  display:flex;
+  justify-content: space-around;
+}
+
+.footer-header {
+  text-align: center;
+  font-size: 32px;
+  color: white;
+}
+
+.footer {
+  padding-bottom: 50px;
+}
